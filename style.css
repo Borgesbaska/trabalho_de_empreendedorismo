@@ -12,3 +12,25 @@ background-color: rgb(233, 216, 181);
     padding: 18px;
     text-align: center;
 }
+
+.principal{
+    display: flex;
+    justify-content: space-around;
+    width: 33;
+    text-align: center;
+}
+.nozes{
+    display: flex;
+    text-align: center;
+    width: 33%;
+}
+
+.modelos{
+    display: flex;
+    text-align: center;
+    width: 33%;
+}
+.indice{
+    width: 33%;
+    text-align: center;
+}

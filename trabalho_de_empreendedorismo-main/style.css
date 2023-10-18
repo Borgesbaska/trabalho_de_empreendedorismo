@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: rgb(233, 216, 181);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Young Serif', serif;
+}
+.cabecalho{
+background-color: rgb(233, 216, 181);
+}
+.cabecalho-titulo{
+    color: rgb(34, 119, 0);
+    font-size: 37px;
+    font-weight: 501;
+    padding: 18px;
+    text-align: center;
+}
+
+.principal{
+    display: flex;
+    justify-content: space-around;
+    width: 50;
+    text-align: center;
+}
+.nozes{
+    text-align: center;
+    width: 50%;
+
+}
+
+.modelos{
+    text-align: center;
+    width: 50%;
+}
+.indice{
+    width: 50%;
+    text-align: center;
+}
